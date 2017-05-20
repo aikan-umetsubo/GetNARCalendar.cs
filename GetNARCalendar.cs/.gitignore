@@ -1,0 +1,12 @@
+# Build and Release Folders
+bin/
+obj/
+
+# Other files and folders
+packages/
+
+# User setting file
+*.userprefs
+
+# others
+.DS_Store
