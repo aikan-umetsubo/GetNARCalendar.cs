@@ -4,9 +4,7 @@ obj/
 
 # Other files and folders
 packages/
+/.DS_Store/
 
 # User setting file
 *.userprefs
-
-# others
-.DS_Store
